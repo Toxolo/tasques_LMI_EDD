@@ -1,0 +1,41 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+div {
+    font-size: 10px;
+}
+.dias {
+    color: grey;
+}
+.SXA {
+    background-color: lightpink;
+}
+.SXA:hover {
+    background-color: rgb(112, 24, 37);
+}
+.SGI {
+    background-color: red;
+}
+.SOX {
+    background-color: rgb(140, 180, 231);
+}
+.SI {
+    background-color: red;
+}
+.APW {
+    background-color: blue;
+}
+.EIE {
+    background-color: blueviolet;
+}
+.ANG {
+    background-color: greenyellow;
+}
+.hores{
+    background-color: lightgray;
+}
+.pati {
+    background-color: rgb(168, 161, 161);
+    text-align: center;
+}
