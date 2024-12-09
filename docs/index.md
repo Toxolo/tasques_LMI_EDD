@@ -11,7 +11,7 @@
 - [`Article 1`](MARQUES/documentm_1.md)
 
 ## Calculadora:
-- [`Calculadora whit ant`](https://github.com/Toxolo/tasques_LMI_EDD/blob/recovery-branch/docs/calculadora.zip)
+- [`Calculadora whit ant`](blob:https://github.com/f4641a26-c51c-4110-b555-bdcac51921e4)
 
 ## HTML:
 - [`Activitats HTML`](MARQUES/ActivitatsHTML)
