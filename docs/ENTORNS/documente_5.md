@@ -1,5 +1,0 @@
-# Cas pràctic: Conflicte d'interessos
-
-**En una reunió de revisió de sprint hem tingut alguns problemes amb determinades tasques que no s'han dut a terme correctament o no s'han acabat a temps. En la reunió de planificació inicial, el Scrum Master ja va suggerir que determinats equips estaven sobrecarregats de treball, però el Product Owner va insistir que hi havia tasques que el client esperava veure prompte fetes. Què creieu que ha passat?**
-
-En Scrum un projecte s'executa en cicles temporals curts i de duració fixa (iteracions que normalment són de 2 setmanes, encara que en alguns equips són de 3 i fins a 4 setmanes, límit màxim de feedback de producte real i reflexió). Cada iteració ha de proporcionar un resultat complet, un increment de producte final que siga susceptible de ser entregat amb el mínim esforç al client quan el sol·licite. Per tant, un sobrecarregament de treball és molt perjudicial, per esta manera de treballar, ja que en centrar-se en moltes cuses diferents és impossible acomplir els plaços definits per la falta de temps, el barreig d'idees diferents a tractar al mateix temps, etc.
