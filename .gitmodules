@@ -1,0 +1,3 @@
+[submodule "tasques_LMI_EDD"]
+	path = tasques_LMI_EDD
+	url = https://github.com/Toxolo/tasques_LMI_EDD.git
